@@ -11,9 +11,10 @@ user_title: iOS Developer
 email: ys.pipinosuke@gmail.com
 twitter_username: pipinosukep
 github_username:  pipinosuke
+favicon: "/assets/img/favicon.png"
 
 # Google-analytics
 google-analytics:
-  id: ""
+  id: "UA-84084422-4"
 
 exclude: ['package.json', 'src' , 'node_modules']
