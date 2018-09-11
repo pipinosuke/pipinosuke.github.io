@@ -6,12 +6,13 @@ url: "https://pipinosuke.github.io" # the base hostname & protocol for your site
 
 # User settings
 username: S.Yusuke
-user_description: age 21 <br>country Japan🇯🇵 <br> hometown Sapporo City⛄️ <br> job Freelance Developper💻/College Student‍🎓 Kobe.Univ <br> hobby Traveling✈️ and Gaming🎮 <br> BaseBall⚾️ Judo🥋 Rugby🏉
-user_title: iOS Developer
+user_description: age 21 <br>country Japan🇯🇵 <br> hometown Sapporo City⛄️ <br> job Freelance Developper💻/College Student‍🎓 Kobe.Univ <br> hobby Traveling✈️ and Gaming🎮
+carrer: 2015~ Kobe.Univ <br> 2016-2017 Candle.inc rails/ios Enginner <br> 2018~ Freerance Engineer
+user_title: Software Engineer
 email: ys.pipinosuke@gmail.com
 twitter_username: pipinosukep
 github_username:  pipinosuke
-favicon: "/assets/img/favicon.png"
+favicon: "/assets/img/favicon.ico"
 
 # Google-analytics
 google-analytics:
