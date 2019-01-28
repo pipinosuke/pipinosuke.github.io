@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://nosugi.tech/work/airbnb/</loc>
+    <lastmod>2019-01-28T19:24:31+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nosugi.tech/work/school/</loc>
+    <lastmod>2019-01-28T19:24:31+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nosugi.tech/blog/hello/</loc>
+    <lastmod>2019-01-28T19:16:51+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nosugi.tech/blog/</loc>
+    <lastmod>2019-01-28T19:16:51+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nosugi.tech/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nosugi.tech/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nosugi.tech/work/</loc>
+    <lastmod>2019-01-28T19:24:31+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nosugi.tech/</loc>
+    <lastmod>2019-01-28T19:24:31+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

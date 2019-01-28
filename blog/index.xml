@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on nosugi - Yusuke Sugino</title>
+    <link>https://nosugi.tech/blog/</link>
+    <description>Recent content in Blogs on nosugi - Yusuke Sugino</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 28 Jan 2019 19:16:51 +0900</lastBuildDate>
+    
+	<atom:link href="https://nosugi.tech/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Renewed!!</title>
+      <link>https://nosugi.tech/blog/hello/</link>
+      <pubDate>Mon, 28 Jan 2019 19:16:51 +0900</pubDate>
+      
+      <guid>https://nosugi.tech/blog/hello/</guid>
+      <description> ENG My site is renewed!! please check it out.
+Other Links  blog
+I keep records of my thinking, learning&amp;hellip;etc. in Japanese.  JPN ホームページをリニューアルしました。
+Other Links  個人ブログ
+思考の記録や仕入れた情報のアウトプットを中心に自由に書いています。  </description>
+    </item>
+    
+  </channel>
+</rss>
