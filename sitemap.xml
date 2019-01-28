@@ -13,18 +13,18 @@
   </url>
   
   <url>
-    <loc>https://nosugi.tech/blog/hello/</loc>
+    <loc>https://nosugi.tech/news/renewed/</loc>
     <lastmod>2019-01-28T19:16:51+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nosugi.tech/blog/</loc>
-    <lastmod>2019-01-28T19:16:51+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nosugi.tech/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nosugi.tech/news/</loc>
+    <lastmod>2019-01-28T19:16:51+09:00</lastmod>
     <priority>0</priority>
   </url>
   
