@@ -6,10 +6,20 @@
     <description>Recent content on nosugi - Yusuke Sugino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jan 2019 19:24:31 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 19:16:51 +0900</lastBuildDate>
     
 	<atom:link href="https://nosugi.tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduce my work space!!</title>
+      <link>https://nosugi.tech/news/my_office/</link>
+      <pubDate>Fri, 01 Feb 2019 19:16:51 +0900</pubDate>
+      
+      <guid>https://nosugi.tech/news/my_office/</guid>
+      <description>ENG great.
+JPN めっちゃいい。</description>
+    </item>
     
     <item>
       <title>Airbnb</title>
@@ -29,7 +39,7 @@ JPN 東京の池袋駅の近くの家をリスティング。世界各地の観�
       
       <guid>https://nosugi.tech/work/school/</guid>
       <description>ENG I administer programming class for children in my hometown, Sapporo. I get sponsorship from the company fortunately and I&amp;rsquo;m eager to success this business now!
-JPN [プログラミングスクール](programming class](https://school.nosugi.tech)を運営しています。今も悪戦苦闘中です。</description>
+JPN プログラミングスクールを運営しています。今も悪戦苦闘中です。</description>
     </item>
     
     <item>
@@ -41,7 +51,7 @@ JPN [プログラミングスクール](programming class](https://school.nosugi
       <description> ENG My site is renewed!! please check it out.
 Other Links  blog
 I keep records of my thinking, learning&amp;hellip;etc. in Japanese.  JPN ホームページをリニューアルしました。
-Other Links  個人ブログ
+その他リンク  個人ブログ
 思考の記録や仕入れた情報のアウトプットを中心に自由に書いています。  </description>
     </item>
     

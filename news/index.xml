@@ -6,10 +6,20 @@
     <description>Recent content in News on nosugi - Yusuke Sugino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Jan 2019 19:16:51 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 01 Feb 2019 19:16:51 +0900</lastBuildDate>
     
 	<atom:link href="https://nosugi.tech/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduce my work space!!</title>
+      <link>https://nosugi.tech/news/my_office/</link>
+      <pubDate>Fri, 01 Feb 2019 19:16:51 +0900</pubDate>
+      
+      <guid>https://nosugi.tech/news/my_office/</guid>
+      <description>ENG great.
+JPN めっちゃいい。</description>
+    </item>
     
     <item>
       <title>Renewed!!</title>
@@ -20,7 +30,7 @@
       <description> ENG My site is renewed!! please check it out.
 Other Links  blog
 I keep records of my thinking, learning&amp;hellip;etc. in Japanese.  JPN ホームページをリニューアルしました。
-Other Links  個人ブログ
+その他リンク  個人ブログ
 思考の記録や仕入れた情報のアウトプットを中心に自由に書いています。  </description>
     </item>
     
