@@ -6,10 +6,21 @@
     <description>Recent content on nosugi - Yusuke Sugino</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Apr 2019 05:31:19 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 06 May 2019 21:01:41 +0900</lastBuildDate>
     
 	<atom:link href="https://nosugi.tech/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>#Fab FmというPodcastラジオを始めました</title>
+      <link>https://nosugi.tech/news/fab-fm/</link>
+      <pubDate>Mon, 06 May 2019 21:01:41 +0900</pubDate>
+      
+      <guid>https://nosugi.tech/news/fab-fm/</guid>
+      <description>#FAB FMについて #Fab FMは作り手にスポットライトを当てたラジオトーク番組です。何かしらの創作活動を行なっている「作りエイター」をゲストとしてお招きし、作りエイターのパーソナリティや今後やっていきたいことについて掘り下げていきます。メインパーソナリティは@nosugi1が務めます。 以下のリンクから購読出来ます。
+購読はこちらから   Apple Podcast Spotify   Instagram    View this post on Instagram        ラジオの収録してきました。RothsMKありがとう！！ #fabfm #ラジオ #音楽
+Fab Communeさん(@fab.commune)がシェアした投稿 - 2019年 5月月6日午前4時26分PDT</description>
+    </item>
     
     <item>
       <title>みんダナ</title>
@@ -26,7 +37,8 @@
       <pubDate>Wed, 10 Apr 2019 05:31:10 +0900</pubDate>
       
       <guid>https://nosugi.tech/work/bot/</guid>
-      <description>Line上で動作する予約システムです。とあるチェーン飲食店舗向けに導入していただけるよう現在鋭意開発中・・・</description>
+      <description>Line上で動作する予約システムです。とあるチェーン飲食店舗向けに導入していただけるよう現在鋭意開発中・・・
+追記: 5月からβ版の試験的な運用を開始しました。</description>
     </item>
     
     <item>

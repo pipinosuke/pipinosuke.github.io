@@ -3,13 +3,24 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://nosugi.tech/work/</loc>
-    <lastmod>2019-04-10T05:31:19+09:00</lastmod>
+    <loc>https://nosugi.tech/news/fab-fm/</loc>
+    <lastmod>2019-05-06T21:01:41+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nosugi.tech/news/</loc>
+    <lastmod>2019-05-06T21:01:41+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://nosugi.tech/</loc>
+    <lastmod>2019-05-06T21:01:41+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nosugi.tech/work/</loc>
     <lastmod>2019-04-10T05:31:19+09:00</lastmod>
     <priority>0</priority>
   </url>
@@ -22,12 +33,6 @@
   <url>
     <loc>https://nosugi.tech/work/bot/</loc>
     <lastmod>2019-04-10T05:31:10+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://nosugi.tech/news/</loc>
-    <lastmod>2019-02-01T19:16:51+09:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
